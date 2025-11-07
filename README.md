@@ -1,4 +1,4 @@
-# **Juice Shop AppSec Pipeline Lab**
+# **Juice Shop AppSec Lab**
 
 A hands-on **application security learning project** using:  
 - [**OWASP Juice Shop**](https://owasp.org/www-project-juice-shop/) *(intentionally vulnerable web app)*  
